@@ -1,0 +1,9 @@
+/* LeetCode Problem #1: Two Sum
+ * Difficulty: Unknown
+ * Topics: 
+ * Language: Unknown
+ * Runtime: N/A | Memory: N/A
+ * Solved: 10/17/2026
+ */
+
+c
